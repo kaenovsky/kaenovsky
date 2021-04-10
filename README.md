@@ -4,6 +4,6 @@ I'm a web developer **in progress**, don't expect any advanced stuff here. Most 
 
 Currently working at a cloud computing enterprise as front end designer.
 
-FOSS advocate ⚡️ &nbsp;
-GNU/Linux user 🐧 &nbsp;
-Curious fox 🦊
+FOSS advocate ⚡️  
+GNU/Linux user 🐧  
+Curious fox 🦊  
