@@ -1,8 +1,4 @@
-# Greetings hooman
-
-\👽
-
- 🧉
+# Greetings hooman 🧉  👽
 
 I'm a web developer **in progress**. These repos are mainly training code, side projects and random stuff.
 
