@@ -3,7 +3,7 @@
 I'm a web developer **in progress**. In these repos you'll find training code, side projects and random stuff that I like to push.
 
 I'm currently working at a cloud hosting company as Front-end developer.
-Since 2022 I'm also pursuing a [technical degree in Software Development](https://www.ifts18.edu.ar/carreras/tsds/plan-tsds) at a public Educational Institute in Buenos Aires.
+Since 2022 I'm also pursuing a [technical degree in Software Development](https://www.ifts18.edu.ar/carreras/tsds/plan-tsds) at a public school in Buenos Aires.
 
 **[ Tools that I'm using and learning ]** 
 
@@ -11,4 +11,4 @@ Since 2022 I'm also pursuing a [technical degree in Software Development](https:
 
 👓 for school: Python, SQL, OOP
 
-🐧 for fun: Linux, Bash, Docker, CI/CD
+🐧 for fun: Linux, Bash, Docker, Github actions
