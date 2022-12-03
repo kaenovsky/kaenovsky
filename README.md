@@ -6,7 +6,7 @@ I'm currently working at [Acciona IT](https://www.acciona-it.com/) as SSR Softwa
 
 **[ Tools that I'm using and learning ]** 
 
-👷 for work: HTML, MySQL, Scrum, Jira
+👷 for work: HTML, MySQL, Jira + Confluence
 
 👓 for school: Python, sqlite3, OOP
 
