@@ -13,3 +13,5 @@ I'm currently working at [Acciona IT](https://www.acciona-it.com/) as SSR Softwa
 🐧 for fun: Linux, Bash, Docker, Github actions
 
 👾 misc learning: JavaScript (mostly React & Vue), PHP (mostly Wordpress)
+
+🗄 Get my full CV in [pdf](https://github.com/kaenovsky/kaenovsky/raw/main/resume-mkaen-2023-en.pdf) or [markdown](https://github.com/kaenovsky/kaenovsky/blob/main/cv.md)
