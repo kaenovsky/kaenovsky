@@ -8,7 +8,7 @@ I'm currently working at [Acciona IT](https://www.acciona-it.com/) as SSR Softwa
 
 👷 for work: HTML, MySQL, Jira + Confluence
 
-👓 for school: Python, sqlite3, OOP
+👓 for school: Python, sqlite3, OOP, Java (Android Studio)
 
 🐧 for fun: Linux, Bash, Docker, Github actions
 
