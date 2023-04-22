@@ -14,15 +14,13 @@ I've worked in Digital Communications since 2009. I co-founded a startup in 2015
 
 ### Work Experience
 
-I've worked in Digital Communications since 2009. I co-founded a startup in 2015. In 2017 I started to learn web development both with online bootcamps and in-site courses. I'm currently working as a web developer for an IT consulting company. Always learning new skills and digging into Buenos Aires' FOSS ecosystem. Recently started to pursue a 2.5 years technical degree in Software Development.
-
 **Nov. 2022 ~ now: SSR Software Engineer @ AccionaIT [Buenos Aires, Argentina]**
 
 Acciona IT is a software consulting company with several regional and international clients. The project that has been assigned to me is the German lab Boehringer Ingelheim where I'm helping to maintain and develop internal company services. #HTML #MySQL #JS #Scrum #Confluence #SmartSimple
 
-**Nov. 2022 ~ now: SSR Software Engineer @ AccionaIT [Buenos Aires, Argentina]**
+**Dec. 2020 ~ Nov. 2022: Front-End Dev @ LatinCloud [Buenos Aires, Argentina]**
 
-Acciona IT is a software consulting company with several regional and international clients. The project that has been assigned to me is the German lab Boehringer Ingelheim where I'm helping to maintain and develop internal company services. #HTML #MySQL #JS #Scrum #Confluence #SmartSimple
+As Front-end developer I worked on the main website and also crafting new products such as a new control panel interface for the company’s clients. All these with the support of a solid team of well experienced engineers. #HTML #CSS #JS #PHP #git #NextJS #React #Figma #VueJS #scrum #cloud
 
 **Feb. 2018 ~ Dec. 2020: Front-End Dev @ Alpogo.com [Buenos Aires, Argentina]**
 
