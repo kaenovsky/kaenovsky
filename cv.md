@@ -1,53 +1,62 @@
-## Martin Kaen (CV)
+# Martin Kaen
 
-Web Developer and FOSS enthusiast living in Buenos Aires
+Motivated front-end web developer and dedicated FOSS enthusiast with a passion for creating user-friendly interfaces and a commitment to continuous learning and growth.
 
-Please visit my personal website for links to LinkedIn and Github at [mkaen.ar](https://mkaen.ar)
+- Email: mkaen@vivaldi.net
+- Phone: +54 9 351 7703551
+- [Github](https://github.com/kaenovsky)
+- [LinkedIn](https://www.linkedin.com/in/martinkaen)
+- [Website](https://mkaen.ar)
 
-**email:** mkaen@vivaldi.net | **phone:** +54 9 351 7703551
+## Work Experience
 
----
+### SSR Software Engineer @ AccionaIT [BA, Argentina]
 
-I've worked in Digital Communications since 2009. I co-founded a startup in 2015. In 2017 I started to learn web development both with online bootcamps and in-site courses. I'm currently working as a web developer for an IT consulting company. Always learning new skills and digging into Buenos Aires' FOSS ecosystem. Recently started to pursue a 2.5 years technical degree in Software Development.
+**Nov. 2022 ~ Present**
 
----
+As a Software Engineer at AccionaIT, I was initially assigned to the Boehringer Ingelheim project from November 2022 to May 2023. During this time, I worked within the Lectrona Product Team, utilizing Agile methodology and DevOps practices to maintain an instance of a custom SaaS called SmartSimple. My main responsibilities included understanding and following up on business needs and writing documentation of every process.
 
-### Work Experience
+Since the completion of the Boehringer Ingelheim project, I am currently seeking new assignments within AccionaIT to further contribute my expertise in Web Development. I am actively pursuing new opportunities to apply my skills and continue my professional growth.
 
-**Nov. 2022 ~ now: SSR Software Engineer @ AccionaIT [Buenos Aires, Argentina]**
+Tech stack & tools: HTML, MySQL, JavaScript, Scrum, Confluence (documentation)
 
-Acciona IT is a software consulting company with several regional and international clients. The project that has been assigned to me is the German lab Boehringer Ingelheim where I'm helping to maintain and develop internal company services. #HTML #MySQL #JS #Scrum #Confluence #SmartSimple
+### Front-End Dev @ LatinCloud [BA, Argentina]
 
-**Dec. 2020 ~ Nov. 2022: Front-End Dev @ LatinCloud [Buenos Aires, Argentina]**
+**Dec. 2020 ~ Nov. 2022**
 
-As Front-end developer I worked on the main website and also crafting new products such as a new control panel interface for the company’s clients. All these with the support of a solid team of well experienced engineers. #HTML #CSS #JS #PHP #git #NextJS #React #Figma #VueJS #scrum #cloud
+As a Front-end Developer, I worked on the main company website's maintenance, promotional banners, landing pages, and email templates. Since January 2022, I have assisted in Product Design by creating a new control panel interface for the company's clients using Vue.js and the PrimeFlex library. We worked using an Agile framework.
 
-**Feb. 2018 ~ Dec. 2020: Front-End Dev @ Alpogo.com [Buenos Aires, Argentina]**
+Tech stack & tools: HTML, CSS, JavaScript, PHP, Git, NextJS (React), Figma, VueJS, Scrum
 
-As a start-up founder I had to deal with several topics related to business and product ownership. Since 2018, I begun to code alongside more experienced peers within an agile framework. I had to left the startup in 2020 after a year of covid-19 pandemic hit the industry hard. #HTML #SCSS #JS #PHP #git #codeigniter #MySQL #scrum
+### Team Leader & co-founder @ Alpogo.com [BA, Argentina]
 
-**Mar. 2009 ~ Dec. 2017: Communications & marketing [Cordoba, Argentina]**
+**Feb. 2018 ~ Dec. 2020**
 
-Before I shifted my focus to Software Engineering I used to study and work in digital communications (Digital Marketing / Social Media). I studied Communications at Córdoba’s University. Since 2010, I started working for an ad-agency (rv.com.ar). Around 2014 I left my position at the agency to work as a freelancer for a year until May 2016 when, alongside a great team, we launched a start-up. #DigitalMedia #BrandStrategy #Trello #scrum
+As a start-up founder, I dealt with various topics related to business and product ownership, such as team assembly, Scrum management, and client relationships. In 2018, I began coding in the Front-end alongside more experienced peers within an Agile framework. I also created an internal Dashboard for metrics using PHP and MySQL.
 
----
+Tech stack & tools: HTML, SCSS, JavaScript, Bootstrap, PHP, Git, MySQL, Scrum
 
-### Education
+### Digital Marketing [CBA, Argentina]
 
-**2022~2024: Software Development Technical Degree**
+**Mar. 2009 ~ Dec. 2017**
 
-In 2022 I started a new career path studying Software Development at a Technical Institute in Buenos Aires. More info about it in my note’s repo: [github.com/kaenovsky/iftsnotes](https://github.com/kaenovsky/iftsnotes)
+Before I shifted my focus to Software Engineering, I used to study and work in digital marketing. I studied Communications at Córdoba’s University. In 2010, I started working for an ad-agency (rv.com.ar). Around 2014, I left my position at the agency to work as a freelancer for a year until May 2016 when, alongside a great team, we launched a start-up.
 
-**2017~2018: Bootcamps (various)**
+## Education
 
-Since 2017 I participated in several online bootcamps on Udemy and two in-site technical courses in web development at the National Technical University of Buenos Aires. Find certifications at the bottom of my LinkedIn profile.
+- 2022~2024: [in progress] Software Development Technical Degree - IFTS18
+- 2020: SSH Secure Shell - Udemy
+- 2019: Agile Project Management - Udemy
+- 2018: Professional Webmaster - UTN
+- 2018: Web Developer Bootcamp - Udemy
+- 2017: Plan 111mil programadores Java, OOP, MySQL - Argentina Programa
+- 2009~2013 [unfinished]: Communications Degree - Córdoba National University, UNC
 
-**2009~2013 [unfinished]: Communications Degree (Córdoba National University, UNC)**
+## Languages
 
-At age 17 I moved to Córdoba to study communications. I learned a lot from great classmates and professors, but after some time I decided to work full time at my job back then and I had to drop out school. Some years later I would go back to school, this time to learn how to code.
+- Native Spanish
+- Advanced English (Writing & Speaking)
 
----
+## Additional Skills and Interests
 
-### Miscellaneous
-
-I'm a collaborator at the LATAM Free and open source festival Flisol where we aim to provide a safe and inclusive environment for people to learn about GNU/Linux. I'm involved with open source communities in my city, always looking for ways to improve my skills along side like-minded people.
+While I currently work as a front-end developer, I'm passionate about expanding my skill set to include back-end development, DevOps, and infrastructure. I'm always eager to learn new technologies and hone my abilities, whether it's experimenting with VPS management or utilizing CI tools like GitHub Actions.
