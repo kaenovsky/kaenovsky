@@ -2,11 +2,11 @@
 
 In these repos you'll find training code, side projects and random stuff that I like to push.
 
-I'm currently working at [Flock](https://flockit.com.ar/) as a Web Developer. Since 2022 I'm also pursuing a [technical degree in Software Development](https://www.ifts18.edu.ar/carreras/desarrollo-de-software/plan-tsds) at a public school in Buenos Aires.
+I'm currently working at [Flock](https://flockit.com.ar/) as a Web Developer. Since 2022 I'm also pursuing a [technical degree in Software Development](https://www.ifts18.edu.ar/carreras/desarrollo-de-software/plan-tsds) at a public school in Buenos Aires. I'm [this close](https://iftsnotes.vercel.app) 🤏🏽 to finish.
 
 **[ Tools that I'm using and learning ]** 
 
-👷 for work: HTML, CSS, JavaScript (Angular), MySQL, Jira + Bitbucket
+👷 for work: React, VR (Meta Quest), OpenAI, FaaS, Scrum using Jira & Bitbucket
 
 👓 for school: Python, sqlite3, OOP, Java (Android Studio), Django, AzureCloud
 

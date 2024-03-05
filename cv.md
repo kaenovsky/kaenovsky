@@ -10,13 +10,17 @@ Motivated front-end web developer and dedicated FOSS enthusiast with a passion f
 
 ## Work Experience
 
-### SSR Software Engineer @ AccionaIT [BA, Argentina]
+### Research & Development Analyst @ Flock IT [BA, Argentina]
 
-**Nov. 2022 ~ Present**
+**May. 2023 ~ Present**
 
-As a Software Engineer at AccionaIT, I was initially assigned to the Boehringer Ingelheim project from November 2022 to May 2023. During this time, I worked within the Lectrona Product Team, utilizing Agile methodology and DevOps practices to maintain an instance of a custom SaaS called SmartSimple. My main responsibilities included understanding and following up on business needs and writing documentation of every process.
+Currently working for the R&D team of Flock, using cutting edge technology to improve our business partners as well as in-company processes optimization. We mainly deliver AI powered products, VR experiences, Cloud native functions and many more exciting challenges alongside an amazing team.
 
-Since the completion of the Boehringer Ingelheim project, I am currently seeking new assignments within AccionaIT to further contribute my expertise in Web Development. I am actively pursuing new opportunities to apply my skills and continue my professional growth.
+Tech stack & tools: Figma, React, Python, Laravel, Jira
+
+**Nov. 2022 ~ May. 2023**
+
+I worked within the Lectrona Product Team, utilizing Agile methodology and DevOps practices to maintain an instance of a custom SaaS called SmartSimple. My main responsibilities included understanding and following up on business needs and writing documentation of every process.
 
 Tech stack & tools: HTML, MySQL, JavaScript, Scrum, Confluence (documentation)
 
