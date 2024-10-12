@@ -65,6 +65,6 @@ Before I shifted my focus to Software Engineering, I used to study and work in d
 - Advanced English (Writing & Speaking)
 - Learning Chinese
 
-## Additional Skills and Interests
+## Additional Interests
 
-While I currently work as a full stack developer, I'm passionate about expanding my skill set to include DevOps and infrastructure. I'm always eager to learn new technologies and hone my abilities, whether it's experimenting with VPS management or utilizing CI tools like GitHub Actions.
+Driven by a deep interest in computer science and research, I am continually expanding my understanding of software development and the broader field of computational systems. My focus lies in exploring how technology and human cognition intersect, with an emphasis on problem-solving, algorithmic thinking, and innovative research. I am committed to advancing my knowledge in areas such as systems architecture, computational theory, and the evolving relationship between humans and machines.
