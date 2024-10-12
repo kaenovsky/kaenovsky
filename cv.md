@@ -1,6 +1,6 @@
 # Martin Kaen
 
-Motivated front-end web developer and dedicated FOSS enthusiast with a passion for creating user-friendly interfaces and a commitment to continuous learning and growth.
+Motivated full stack developer and dedicated FOSS enthusiast with a passion for creating user-friendly interfaces and a commitment to continuous learning and growth.
 
 - Email: mkaen@vivaldi.net
 - Phone: +54 9 351 7703551
@@ -16,7 +16,7 @@ Motivated front-end web developer and dedicated FOSS enthusiast with a passion f
 
 Currently working for the R&D team of Flock, using cutting edge technology to improve our business partners as well as in-company processes optimization. We mainly deliver AI powered products, VR experiences, Cloud native functions and many more exciting challenges alongside an amazing team.
 
-Tech stack & tools: Figma, React, Python, Laravel, Jira
+Tech stack & tools: Nextjs, Nest, Figma, React, Python, Laravel, Jira
 
 **Nov. 2022 ~ May. 2023**
 
@@ -48,19 +48,23 @@ Before I shifted my focus to Software Engineering, I used to study and work in d
 
 ## Education
 
-- 2022~2024: [in progress] Software Development Technical Degree - IFTS18
+- 2022~2024: Software Development Technical Degree - IFTS18
+- 2018: Professional Webmaster - UTN
+- 2009~2013 [unfinished]: Communications Degree - Córdoba National University, UNC
+
+## Courses
+
 - 2020: SSH Secure Shell - Udemy
 - 2019: Agile Project Management - Udemy
-- 2018: Professional Webmaster - UTN
 - 2018: Web Developer Bootcamp - Udemy
 - 2017: Plan 111mil programadores Java, OOP, MySQL - Argentina Programa
-- 2009~2013 [unfinished]: Communications Degree - Córdoba National University, UNC
 
 ## Languages
 
 - Native Spanish
 - Advanced English (Writing & Speaking)
+- Learning Chinese
 
 ## Additional Skills and Interests
 
-While I currently work as a front-end developer, I'm passionate about expanding my skill set to include back-end development, DevOps, and infrastructure. I'm always eager to learn new technologies and hone my abilities, whether it's experimenting with VPS management or utilizing CI tools like GitHub Actions.
+While I currently work as a full stack developer, I'm passionate about expanding my skill set to include DevOps and infrastructure. I'm always eager to learn new technologies and hone my abilities, whether it's experimenting with VPS management or utilizing CI tools like GitHub Actions.
