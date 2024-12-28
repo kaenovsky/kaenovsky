@@ -3,7 +3,6 @@
 Motivated full stack developer and dedicated FOSS enthusiast with a passion for creating user-friendly interfaces and a commitment to continuous learning and growth.
 
 - Email: mkaen@vivaldi.net
-- Phone: +54 9 351 7703551
 - [Github](https://github.com/kaenovsky)
 - [LinkedIn](https://www.linkedin.com/in/martinkaen)
 - [Website](https://mkaen.ar)
