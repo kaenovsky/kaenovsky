@@ -2,7 +2,7 @@
 
 In these repos you'll find training code, side projects and random stuff that I like to push.
 
-I'm currently working at [Flock's R&D Team](https://flocklabs.ar/) as a Software Developer.
+I'm currently working at [FK{tech}](https://fktech.net/) as a Product Owner.
 
 **[ Toolbox ]** 
 
